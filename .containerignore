@@ -1,0 +1,16 @@
+# Git
+.git
+.gitignore
+
+# Pre-built database (regenerated inside the image)
+leetcode-browser/leetcode.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor / OS
+.DS_Store
+*.swp
+Thumbs.db
